@@ -5,9 +5,13 @@ This project predicts stock prices and provides investment advice by combining f
 Features
 
 1.Fetch Stock Data: Retrieve historical stock prices using yfinance.
+
 2.Sentiment Analysis: Analyze news headlines using VADER.
+
 3.LSTM Prediction: Predict stock prices using a machine learning model.
+
 4.News Integration: Fetch top news headlines for sentiment analysis.
+
 5.Visualization: Plot historical and predicted stock prices.
 
 Requirements
